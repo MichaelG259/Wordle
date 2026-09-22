@@ -32,7 +32,7 @@ N/A
 
 Here's a walkthrough of implemented user stories:
 
-https://youtu.be/oW-YTWu-Y0A
+https://github.com/user-attachments/assets/91df319d-10c8-4c0f-9aee-9766bebb74dc
 
 ## Notes
 
